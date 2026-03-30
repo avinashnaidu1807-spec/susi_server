@@ -42,7 +42,7 @@ How do I install Susi: Download, Build, Run
 
 |Deploy on Scalingo| |Deploy to Docker Cloud| |Deploy to Azure|
 
-At this time, SUSI.AI is not provided in the compiled form, you can easily build it yourself. It's not difficult and done in one minute! The source code is hosted at https://github.com/fossasia/susi_server, you can download it and run SUSI.AI with (Before installation you must have "Java Development Kit" latest version at http://openjdk.java.net/install/ & "Gradle" latest version at https://gradle.org/install/):
+At this time, SUSI.AI is not provided in the compiled form; you can easily build it yourself. It's not difficult and done in one minute! The source code is hosted at https://github.com/fossasia/susi_server, and you can download it and run SUSI.AI with (Before installation you must have "Java Development Kit" latest version at http://openjdk.java.net/install/ & "Gradle" latest version at https://gradle.org/install/):
 
 .. note::
     - For Armv6 processors (e.g. Raspberry Pi Zero / Zero W/ Zero WH/ 1A / 1B), please make sure that your system is using Java 8 (Oracle or OpenJDK) as there are some compatibility issues for Armv6 processors.
