@@ -171,7 +171,7 @@ How do I run SUSI.AI?
 How do I configure SUSI.AI?
 *********
 
-The basis configuration file is in ``conf/config.properties``. To customize these settings place a file ``customized_config.properties`` to the path ``data/settings/``
+The basic configuration file is in ``conf/config.properties``. To customize these settings place a file ``customized_config.properties`` to the path ``data/settings/``
 
 *********
 How to compile using Gradle?
