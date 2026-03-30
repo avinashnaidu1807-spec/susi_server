@@ -18,7 +18,7 @@ SUSI.AI is an intelligent Open Source personal assistant. It is capable of chat 
 
 There are two branches targeting deployment, "dev-dist" and "stable-dist".
 The former is intended to be used in conjunction with the development versions
-of "susi_linux", while the later with the stable (from the "master" branch).
+of "susi_linux", while the latter with the stable (from the "master" branch).
 These two branches are currently updated manually from "susi_server_binary_latest.tar.gz"
 (see below), but future integration will update "dev-dist" regularly.
 
